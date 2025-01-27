@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="./images/iorio.jpg">
+<img class="profile-picture" src="./images/photo.jpg">
 
 I am young researcher interested in the physics of complex and disordered systems of biological relevance from a theoretical and computational point of view.
 
