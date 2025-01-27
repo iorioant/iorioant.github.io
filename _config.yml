@@ -1,0 +1,26 @@
+title: Antonio Iorio
+url: "https://iorioant.github.io/"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: no
+  #footer_url: "https://github.com/iorioant"
+  #footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Publications"
+   link: "publications"
+ - name: "Experiences"
+   link: "experiences"
+ - name: "Contacts"
+   link: "contacts"
