@@ -43,6 +43,7 @@ layout: default
 ### Vocational and Mentoring
 
 [2024] **Teaching University of Dundee** - Lecture on mathematical foundations of machine learning for the course "PH51001: Computational Physics II", Dundee (UK).
+
 [2024] **Teaching** - Lecture on multi-scale simulations for the "Label de Chimie Théorique 2024", Paris (FR).
 
 [2021] **Mentoring of an Erasmus student** - Molecular Dynamics simulations and study of large prefibrillar amyloid aggregate, Paris (FR).
