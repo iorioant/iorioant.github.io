@@ -16,7 +16,7 @@ layout: default
 
 [5] Q. Bertrand, S. Coquille, **A. Iorio**, F. Sterpone, D. Madern, *Biochemical, structural and dynamical characterizations of the lactate dehydrogenase from Selenomonas ruminantium provide information about an intermediate evolutionary step prior to complete allosteric regulation acquisition in the super family of lactate and malate dehydrogenases*, J. Struct. Biol., **215**, 4 (2023).
 
-[6] **A. Iorio**, \v{S}. Timr, L. Chiodo, P. Derreumaux, F. Sterpone, *Evolution of Large A$\beta_{16-22}$ Aggregates at Atomic Details and Potential of Mean force Associated to Peptide Unbinding and Fragmentation Events*, Proteins, **91**, 8 (2023).
+[6] **A. Iorio**, S. Timr, L. Chiodo, P. Derreumaux, F. Sterpone, *Evolution of Large Abeta_16-22 Aggregates at Atomic Details and Potential of Mean force Associated to Peptide Unbinding and Fragmentation Events*, Proteins, **91**, 8 (2023).
 
 [7] **A. Iorio**, C. Brochier-Armanet, C. Mas, F. Sterpone, D. Madern, *Protein Conformational Space at the Edge of Allostery: Turning a Nonallosteric Malate Dehydrogenase into an “Allosterized” Enzyme Using Evolution-Guided Punctual Mutations*, Mol. Biol. Evol., **39**, 9 (2022).
 
@@ -32,7 +32,7 @@ layout: default
 
 [13] **A. Iorio**, G. Camisasca and P. Gallo, *Slow dynamics of hydration water and the trehalose dynamical transition*, J. Mol. Liq., **282**, 617 (2019).
 
-[14] G. Camisasca, **A. Iorio**, M. De Marzio and P. Gallo, *Structure and slow dynamics of protein hydration water*, J. Mol. Liq., **268**, 903 (2018).}
+[14] G. Camisasca, **A. Iorio**, M. De Marzio and P. Gallo, *Structure and slow dynamics of protein hydration water*, J. Mol. Liq., **268**, 903 (2018).
 
 [15] D. S. Dean, **A. Iorio**, E. Marinari and G. Oshanin, *Sample-to-sample fluctuations of power spectrum of a random motion in a periodic Sinai model*, Phys. Rev. E, **94**, 032131 (2016).
 
