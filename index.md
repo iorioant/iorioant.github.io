@@ -10,8 +10,6 @@ I am young researcher interested in the physics of complex and disordered system
 
 For a complete Academic Curriculum Vitae, download the full [CV](./Iorio_CV.pdf)
 
-<img class="projects-picture" src="./images/projects.jpg">
-
 ## Competencies and interests
 
 * Statistical and Computational Physics (soft matter).
