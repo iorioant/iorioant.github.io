@@ -8,7 +8,7 @@ layout: default
 
 I am young researcher interested in the physics of complex and disordered systems of biological relevance from a theoretical and computational point of view.
 
-For a complete Academic Curriculum Vitae, download the full [CV](./Iorio_CV.pdf)
+For a complete Academic Curriculum Vitae, download the full [CV](https://github.com/iorioant/iorioant.github.io/blob/main/Iorio_CV.pdf)
 
 ## Competencies and interests
 
