@@ -10,7 +10,7 @@ I am young researcher interested in the physics of complex and disordered system
 
 For a complete Academic Curriculum Vitae, download the full [CV](https://github.com/iorioant/iorioant.github.io/blob/main/Iorio_CV.pdf)
 
-<img src="./images/projects.jpg">
+<img src="./images/projects.png">
 
 ## Competencies and interests
 
