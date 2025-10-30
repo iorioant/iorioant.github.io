@@ -52,7 +52,7 @@ layout: default
 
 ### Vocational and Mentoring
 
-[2025] **Teaching University of Dundee** - Lectures for the course "Advanced Statistical Physics", Dundee (UK
+[2025] **Teaching University of Dundee** - Lectures for the course "Advanced Statistical Physics", Dundee (UK).
 
 [2025] **Teaching University of Dundee** - "Physics (Summer School)", Dundee (UK).
 
