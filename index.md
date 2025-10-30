@@ -15,7 +15,7 @@ For a complete Academic Curriculum Vitae, download the full [CV](https://github.
 ## Competencies and interests
 
 * Statistical and Computational Physics (soft matter).
-* Molecular Dynamics (all atoms/coarse grain) and Lattice Boltzmann method.
+* Molecular Dynamics (all atoms/coarse-grained) and Lattice Boltzmann method.
 * Hydrodynamic interactions.
 * Enhanced sampling methods.
 * Monte Carlo methods.

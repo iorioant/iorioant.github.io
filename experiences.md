@@ -12,6 +12,14 @@ layout: default
 
 ### Conferences
 
+[2025] **Opening Conference for Mathematical Challenges in Brain Mechanics** Oslo (NO). **Invited talk**
+
+[2025] **Supa Annual Gathering** Dundee (UK). Poster contribution.
+
+[2025] **Physics of Life 2025** Harrogate (UK). Poster contribution.
+
+[2025] **Scottish Soft Matter Meeting** Edinburgh (UK).
+
 [2023] **FédCUP Young researchers meeting** Paris (FR). Oral contribution - *Prize for best talk.*
 
 [2023] **5th Manchester Multiscale Conference** Manchester (UK). Poster contribution.
@@ -31,6 +39,8 @@ layout: default
 
 ### Schools
 
+[2025] **CompSysBio2025 - Advanced Lecture Course on Computational Systems Biology** Aussois (FR).
+
 [2023] **CFD parschool - Summer School on Computational Fluid Dynamics SuperComputing 2023** Gran Sasso Science Institute, L'Aquila (IT).
 
 [2018] **1*st* Course of the International School of Water and Water System**, Erice (IT).
@@ -41,6 +51,10 @@ layout: default
 
 
 ### Vocational and Mentoring
+
+[2025] **Teaching University of Dundee** - Lectures for the course "Advanced Statistical Physics", Dundee (UK
+
+[2025] **Teaching University of Dundee** - "Physics (Summer School)", Dundee (UK).
 
 [2024] **Teaching University of Dundee** - Lecture on mathematical foundations of machine learning for the course "PH51001: Computational Physics II", Dundee (UK).
 
